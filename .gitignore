@@ -1,0 +1,7 @@
+/env
+/__pycache__
+/trash
+.env
+mikrotik.list
+output.json
+output2.json

@@ -1,0 +1,17 @@
+certifi==2026.2.25
+charset-normalizer==3.4.6
+idna==3.11
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+packaging==26.0
+ping3==5.1.5
+ply==3.11
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycryptodomex==3.23.0
+pynetbox==7.6.1
+pysmi==1.6.3
+pysnmp==4.4.12
+python-dotenv==1.2.2
+requests==2.33.1
+urllib3==2.6.3
