@@ -17,6 +17,10 @@ git clone git@github.com:Shabosun/netbox-automation.git
  python -m venv venv
  source venv/bin/activate
  ```
+ 5. Install dependencies
+ ```
+ pip install -r requirements.txt
+ ```
  6. Enter your data to .env file
  7. Run this program
  ```
